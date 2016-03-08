@@ -1,0 +1,70 @@
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\bin\Debug\assignment.xml
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmMain.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.Resources.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.xml
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmKH.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmDieuchinhKH.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmCapnhatsanpham.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
+C:\Users\pink panther\Desktop\namlhps01805_assignment_dtdm\assignment\assignment\obj\Debug\assignment.frmLoaisanpham.resources
+C:\Users\Teo\Downloads\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.xml
+C:\Users\Teo\Downloads\assignment\assignment\obj\Debug\assignment.pdb
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\bin\Debug\assignment.exe.config
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.exe
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.xml
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.pdb
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\bin\Debug\assignment.exe
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\bin\Debug\assignment.pdb
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\bin\Debug\assignment.xml
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmCapnhatsanpham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmDieuchinhKH.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmKH.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmLoaisanpham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmMain.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmSanPham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.frmXemsanpham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.Resources.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignment\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\bin\Debug\assignment.exe.config
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.exe
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.xml
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.pdb
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\bin\Debug\assignment.exe
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\bin\Debug\assignment.pdb
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\bin\Debug\assignment.xml
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.frmSanPham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.frmXemsanpham.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.Resources.resources
+D:\Fpoly\INF205-DienToanDamMay\Assignment\VB\assignmentNew\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+E:\Học tập\INF205\assignmentNew\assignment\bin\Debug\assignment.exe.config
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.exe
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.xml
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.pdb
+E:\Học tập\INF205\assignmentNew\assignment\bin\Debug\assignment.exe
+E:\Học tập\INF205\assignmentNew\assignment\bin\Debug\assignment.pdb
+E:\Học tập\INF205\assignmentNew\assignment\bin\Debug\assignment.xml
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.vbprojResolveAssemblyReference.cache
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.frmSanPham.resources
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.frmXemsanpham.resources
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.Resources.resources
+E:\Học tập\INF205\assignmentNew\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
+C:\Users\PC01\Downloads\SourceTest4\assignment\bin\Debug\assignment.exe.config
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.exe
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.xml
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.pdb
+C:\Users\PC01\Downloads\SourceTest4\assignment\bin\Debug\assignment.exe
+C:\Users\PC01\Downloads\SourceTest4\assignment\bin\Debug\assignment.pdb
+C:\Users\PC01\Downloads\SourceTest4\assignment\bin\Debug\assignment.xml
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.vbprojResolveAssemblyReference.cache
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.frmSanPham.resources
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.frmXemsanpham.resources
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.Resources.resources
+C:\Users\PC01\Downloads\SourceTest4\assignment\obj\Debug\assignment.vbproj.GenerateResource.Cache
